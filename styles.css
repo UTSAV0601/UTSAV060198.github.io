@@ -185,6 +185,7 @@ nav a.hover
     Height: 40%;
     bottom: 5%;
     padding-right: 50px;
+    position: absolute;
 }
 
 .skills    /* to access the sky class */
